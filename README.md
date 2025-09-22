@@ -1,5 +1,6 @@
 **📊 Amazon EDA Project**
-*🔍 Project Overview
+
+🔍 Project Overview
 This project is an Exploratory Data Analysis (EDA) on an Amazon dataset. The goal is to uncover insights, identify patterns, and highlight trends in the data through data cleaning, visualization, and statistical exploration.
 The analysis is designed to showcase my data analysis skills, storytelling with data, and ability to derive meaningful business insights.
 
